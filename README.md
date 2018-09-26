@@ -1,2 +1,3 @@
 # hello-world
-Hello
+
+Hi guys! I'm interested in learning computing!
