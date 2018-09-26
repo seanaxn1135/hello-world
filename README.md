@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+ readme-edits
+
+Hi guys! I'm interested in learning computing!
